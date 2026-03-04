@@ -147,3 +147,50 @@ Claude Code 响应:
 - 发现的问题
 - 改进建议
 ```
+
+---
+
+## 自动 Push 到 GitHub
+
+完成编码任务后，自动将变更推送到 GitHub 仓库。
+
+### 仓库配置
+
+- **仓库 URL**: https://github.com/Tugiu123/openclaw-skills
+- **本地路径**: C:\Users\Aaron\.agents\skills\claude-code
+- **分支**: main
+
+### 自动 Push 流程
+
+每次完成编码任务后，执行以下步骤:
+
+1. **检查变更**: `git status`
+2. **添加文件**: `git add -A`
+3. **提交**: `git commit -m "描述变更内容"`
+4. **推送**: `git push origin main`
+
+### 手动 Push 命令
+
+```bash
+# 提交所有变更
+git add -A
+git commit -m "Your commit message"
+git push origin main
+
+# 或者使用简写
+git add -A && git commit -m "Update" && git push
+```
+
+### 在 OpenClaw 中执行
+
+```bash
+# 克隆仓库到本地
+git clone https://github.com/Tugiu123/openclaw-skills.git C:\Users\Aaron\openclaw-skills
+
+# 在工作目录中执行 Claude Code 任务后 push
+cd C:\Users\Aaron\openclaw-skills
+claude -p --add-dir C:\Users\Aaron\openclaw-skills "你的任务"
+git add -A
+git commit -m "完成任务描述"
+git push origin main
+```
