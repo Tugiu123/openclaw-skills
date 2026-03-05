@@ -1,0 +1,10 @@
+⏳ 正在获取 Polymarket 三领域数据...
+   关注: 加密货币 | 体育赛事 | 政治事件
+
+✅ 从 polymarket.com 获取 0 个市场
+❌ Error fetching https://polymarket.com/category/crypto: HTTP Error 404: Not Found
+❌ Error fetching https://polymarket.com/category/politics: HTTP Error 404: Not Found
+❌ Error fetching https://polymarket.com/category/sports: HTTP Error 404: Not Found
+
+❌ 无法获取数据
+建议: 直接访问 polymarket.com 查看实时市场

@@ -1,0 +1,199 @@
+
+⏳ Polymarket 市场扫描启动...
+   领域: 加密货币 | 体育赛事 | 政治事件
+
+🌐 正在获取市场数据 (源 1/2)...
+  ✓ 获取 100 个市场
+🌐 正在获取市场数据 (源 2/2)...
+  ✓ 获取 100 个市场
+
+✅ 获取到 195 个市场
+
+📊 市场分类:
+   💰 加密货币: 38 个
+   ⚽ 体育赛事: 132 个
+   🏛️ 政治事件: 8 个
+   📊 其他: 17 个
+
+================================================================================
+🎯 POLYMARKET 三领域市场监控简报
+📅 时间: 2026-02-25 09:17:37 (Asia/Shanghai)
+================================================================================
+
+₿ 💰 加密货币 (共 38 个市场)
+--------------------------------------------------------------------------------
+ 1. What will the price of $MATIC be on November 11, 2021? 
+    YES: $0.2506 (25.1%) | NO: $0.7494 (74.9%)
+    💰 总交易量: $144K ⚡ NO机会
+
+ 2. What will the ETH floor price of CryptoPunks be on Sept...
+    YES: $0.4616 (46.2%) | NO: $0.5384 (53.8%)
+    💰 总交易量: $84K
+
+
+🏀 ⚽ 体育赛事 (共 132 个市场)
+--------------------------------------------------------------------------------
+ 1. NBA: Los Angeles Lakers vs. Golden State Warriors 2023-...
+    YES: $0.9693 (96.9%) | NO: $0.0307 (3.1%)
+    💰 总交易量: $69 🔥 YES高概率
+
+
+🗳️ 🏛️ 政治事件 (共 8 个市场)
+--------------------------------------------------------------------------------
+ 1. Will Joe Biden be inaugurated as President of the USA o...
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $8.6M 🔥 YES高概率
+
+ 2. Will Joe Biden be President of the United States on Dec...
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $763K 🔥 YES高概率
+
+ 3. Will Joe Biden be President of the United States on Oct...
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $326K 🔥 YES高概率
+
+ 4. Will SBF be federally indicted by EOY?
+    YES: $0.9998 (100.0%) | NO: $0.0002 (0.0%)
+    💰 总交易量: $126K 🔥 YES高概率
+
+ 5. Will Colorado be Trump's worst state on Super Tuesday?
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $37K 🔥 NO高概率
+
+ 6. Will Hunter Biden be federally indicted by March 1, 202...
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $23K 🔥 NO高概率
+
+ 7. Will Biden declassify Russia security threat by Friday?
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $17K 🔥 YES高概率
+
+ 8. 538: Will voters prefer Republicans over Democrats by E...
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $8K 🔥 YES高概率
+
+
+📈 📊 其他 (共 17 个市场)
+--------------------------------------------------------------------------------
+ 1. Who will the world's richest person be on February 27, ...
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $182K 🔥 YES高概率
+
+ 2. Will Kanye West’s DONDA sell more than 250K album units...
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $146K 🔥 NO高概率
+
+ 3. Will UST (TerraUSD) lose its peg by March 1st?
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $91K 🔥 NO高概率
+
+ 4. Will $MATIC reach 1$ again by June 1?
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $29K 🔥 NO高概率
+
+ 5. Who will have a higher net worth on April 20th: Mark Zu...
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $23K 🔥 NO高概率
+
+ 6. Will “meta” be included in Facebook’s new name?
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $18K 🔥 YES高概率
+
+ 7. Will American mask usage be 75% or higher on April 14th...
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $17K 🔥 NO高概率
+
+ 8. North Korea missile test by July 31?
+    YES: $1.0000 (100.0%) | NO: $0.0000 (0.0%)
+    💰 总交易量: $16K 🔥 YES高概率
+
+ 9. Will a picture surface of Kim Kardashian and Pete David...
+    YES: $0.0000 (0.0%) | NO: $1.0000 (100.0%)
+    💰 总交易量: $11K 🔥 NO高概率
+
+10. How much will “In the Heights” gross domestically on op...
+    YES: $0.9993 (100.0%) | NO: $0.0004 (0.0%)
+    💰 总交易量: $9K 🔥 YES高概率
+
+================================================================================
+🔍 重点交易机会 (高交易量 + 极端价格)
+================================================================================
+ 1. [政治] Will Joe Biden be inaugurated as President of the USA on Jan...
+     🔥 YES高概率 | $8.6M
+
+ 2. [政治] Will Joe Biden be President of the United States on December...
+     🔥 YES高概率 | $763K
+
+ 3. [政治] Will Joe Biden be President of the United States on October ...
+     🔥 YES高概率 | $326K
+
+ 4. [其他] Who will the world's richest person be on February 27, 2021?...
+     🔥 YES高概率 | $182K
+
+ 5. [其他] Will Kanye West’s DONDA sell more than 250K album units in i...
+     🔥 NO高概率 | $146K
+
+ 6. [加密货币] What will the price of $MATIC be on November 11, 2021? ...
+     ⚡ NO机会 | $144K
+
+ 7. [政治] Will SBF be federally indicted by EOY?...
+     🔥 YES高概率 | $126K
+
+ 8. [其他] Will UST (TerraUSD) lose its peg by March 1st?...
+     🔥 NO高概率 | $91K
+
+ 9. [政治] Will Colorado be Trump's worst state on Super Tuesday?...
+     🔥 NO高概率 | $37K
+
+10. [其他] Will $MATIC reach 1$ again by June 1?...
+     🔥 NO高概率 | $29K
+
+11. [其他] Who will have a higher net worth on April 20th: Mark Zuckerb...
+     🔥 NO高概率 | $23K
+
+12. [政治] Will Hunter Biden be federally indicted by March 1, 2023?...
+     🔥 NO高概率 | $23K
+
+13. [其他] Will “meta” be included in Facebook’s new name?...
+     🔥 YES高概率 | $18K
+
+14. [政治] Will Biden declassify Russia security threat by Friday?...
+     🔥 YES高概率 | $17K
+
+15. [其他] Will American mask usage be 75% or higher on April 14th, 202...
+     🔥 NO高概率 | $17K
+
+16. [其他] North Korea missile test by July 31?...
+     🔥 YES高概率 | $16K
+
+17. [其他] Will a picture surface of Kim Kardashian and Pete Davidson k...
+     🔥 NO高概率 | $11K
+
+18. [其他] How much will “In the Heights” gross domestically on opening...
+     🔥 YES高概率 | $9K
+
+19. [政治] 538: Will voters prefer Republicans over Democrats by Electi...
+     🔥 YES高概率 | $8K
+
+================================================================================
+💡 交易策略建议
+================================================================================
+
+1️⃣  高胜率策略: 押注 NO (价格 > 0.70)
+   • 查找 NO 价格高于 $0.70 的市场
+   • 重点关注高交易量市场 (24H交易量 >$10K)
+   • 理性评估事件发生的实际概率
+
+2️⃣  极端价格套利: 价格 > 0.85
+   • 当前发现 18 个极端价格机会
+   • 可考虑小额反向押注对冲风险
+
+3️⃣  交易量优先策略
+   • 优先选择24H交易量 >$50K 的市场
+   • 流动性好，便于进出
+
+📁 完整数据已保存: polymarket_report_20260225_091737.json
+
+================================================================================
+✅ 扫描完成
+================================================================================
