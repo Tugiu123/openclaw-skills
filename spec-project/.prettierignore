@@ -1,0 +1,13 @@
+# Dependencies
+node_modules/
+dist/
+build/
+
+# Test files
+coverage/
+playwright-report/
+
+# Config files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
