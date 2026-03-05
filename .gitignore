@@ -1,0 +1,25 @@
+# Dependencies
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+
+# Large data files
+polymarket_report_*.json
+*.json
+
+# Python
+__pycache__/
+*.pyc
+
+# OpenClaw
+.openclaw/
+.clawhub/
